@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -114,3 +115,6 @@ admin:
   password_hash: $2a$10$ziB22I6nx8XjLIy1Iv7HOOlVp.XP78kt0z2dSlK/7EE7qZU1ya8cu
   secret: my super secret phrase
 
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 2ae7f1d0edf6ea153bf8ec73fea91070cf92f5c1
